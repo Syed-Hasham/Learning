@@ -9,7 +9,7 @@
 **A comprehensive repository documenting my Python programming journey**  
 *Following CodeWithHarry's Ultimate Python Handbook*
 
-[📚 Course Link](https://www.youtube.com/watch?v=UrsmFxEIp5k&t=4057s) • [📖 Handbook](./The_Ultimate_Python_Handbook_By_CodeWithHarry.pdf) • [💻 Practice Sets](#practice-sets)
+[📚 Course Link](https://www.youtube.com/watch?v=UrsmFxEIp5k&t=4057s) • [📖 Handbook](./The_Ultimate_Python_Handbook_By_CodeWithHarry.pdf)
 
 </div>
 
