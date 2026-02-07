@@ -21,7 +21,6 @@
 - [Learning Path](#-learning-path)
 - [Quick Notes](#-quick-notes)
 - [Practice Sets](#-practice-sets)
-- [Projects](#-projects)
 - [Resources](#-resources)
 - [Progress](#-progress)
 
@@ -515,67 +514,6 @@ Each chapter includes practice problems to reinforce learning:
 
 ---
 
-## 🚀 Projects
-
-### Project 1: Snake, Water, Gun Game
-Classic hand game implemented in Python with computer AI.
-
-**Features:**
-- Random computer choice
-- User input validation
-- Win/Loss/Draw logic
-- Score tracking
-
----
-
-### Project 2: The Perfect Guess
-Number guessing game with intelligent hints.
-
-**Features:**
-- Random number generation
-- Higher/Lower hints
-- Attempt counter
-- Win condition
-
----
-
-### Mega Project 1: Jarvis - Voice Assistant
-AI-powered voice assistant with multiple capabilities.
-
-**Features:**
-- 🎤 Voice recognition
-- 🔊 Text-to-speech
-- 🌐 Web browsing automation
-- 🎵 Music playback
-- 📰 News fetching
-- 🤖 OpenAI GPT integration
-
-**Tech Stack:**
-- `speech_recognition`
-- `pyttsx3`
-- `gTTS`
-- `openai`
-- `requests`
-- `pygame`
-
----
-
-### Mega Project 2: Auto-Reply AI Chatbot
-Automated chat response bot with personality.
-
-**Features:**
-- 🤖 Chat history analysis
-- ✨ AI-generated humorous responses
-- ⚡ Automated interaction
-- 📋 Clipboard operations
-
-**Tech Stack:**
-- `pyautogui`
-- `openai`
-- `pyperclip`
-
----
-
 ## 📚 Resources
 
 ### Official Documentation
@@ -611,14 +549,6 @@ Automated chat response bot with personality.
 - [x] Chapter 12 - Advanced Python 1
 - [x] Chapter 13 - Advanced Python 2
 
-### Projects
-- [x] Project 1: Snake, Water, Gun
-- [x] Project 2: The Perfect Guess
-- [x] Mega Project 1: Jarvis Voice Assistant
-- [x] Mega Project 2: Auto-Reply Chatbot
-
----
-
 ## 🤝 Contributing
 
 Feel free to fork this repository and add your own solutions or improvements!
@@ -641,7 +571,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - **CodeWithHarry** - For the excellent Python tutorial series
 - **Python Community** - For maintaining comprehensive documentation
-- **OpenAI** - For GPT integration in projects
 
 ---
 
@@ -649,7 +578,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ### 💡 Keep Learning, Keep Coding!
 
-Made with ❤️ by [Syed-Hasham](https://github.com/Syed-Hasham)
+Made by [Syed-Hasham](https://github.com/Syed-Hasham)
 
 ⭐ Star this repo if you found it helpful!
 
