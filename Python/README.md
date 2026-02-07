@@ -528,7 +528,6 @@ Each chapter includes practice problems to reinforce learning:
 - [pip Documentation](https://pip.pypa.io/)
 - [virtualenv](https://virtualenv.pypa.io/)
 - [Flask](https://flask.palletsprojects.com/)
-- [OpenAI API](https://platform.openai.com/docs/)
 
 ---
 
