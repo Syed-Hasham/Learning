@@ -21,7 +21,6 @@
 - [Course Overview](#-course-overview)
 - [Learning Modules](#-learning-modules)
 - [Quick Reference](#-quick-reference)
-- [Projects](#-projects)
 - [Resources](#-resources)
 - [Progress](#-progress)
 
@@ -117,7 +116,7 @@ This repository contains my complete HTML learning experience following **CodeWi
 
 ---
 
-### #1.1 - Bookmark Manager Project
+### #1.1 - Bookmark Manager
 
 **Links & Navigation**
 ```html
@@ -856,7 +855,7 @@ This repository contains my complete HTML learning experience following **CodeWi
 - [Can I Use](https://caniuse.com/) - Browser compatibility
 
 ### Learning Resources
-- [CodeWithHarry - Sigma Web Dev Course](https://www.youtube.com/@CodeWithHarry)
+- [CodeWithHarry - Sigma Web Dev Course]([https://www.youtube.com/@CodeWithHarry](https://www.youtube.com/watch?v=tVzUXW6siu0&list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w))
 - [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 
@@ -875,7 +874,7 @@ This repository contains my complete HTML learning experience following **CodeWi
 
 ### Completed ✅
 - [x] #1 - Headings & Paragraphs
-- [x] #1.1 - Bookmark Manager Project
+- [x] #1.1 - Bookmark Manager
 - [x] #2 - Images, Lists & Tables
 - [x] #3 - Forms & Input Tags
 - [x] #4 - Inline & Block Elements
