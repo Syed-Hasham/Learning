@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS SELECTORS</title>
+    <style>
+        /*ELEMENT SELECTOR*/
+        span{
+            background-color: orange;
+            color: cyan;
+        }
+        /*CLASS SELECTOR*/
+        .red{
+            background-color: red;
+        }
+        /*ID SELECTOR*/
+        #green{
+            background-color: green;
+        }
+        /*DESCENDANT SELECTOR*/
+        div p{
+            color: yellow;
+            background-color: black;
+        }
+        /*CHILD SELECTOR*/
+        div>p{
+            color: violet;
+            background-color: purple;
+        }
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        /* PSUEDO SELECTOR */
+        a:visited{
+            color:black;
+        }
+        a:link{
+            color: red;
+        }
+        a:active{
+            background-color: blue;
+        }
+        a:hover{
+            background-color: yellow;
+        }
+        p:first-child{
+            background-color: aqua;
+        }
+    </style>
+</head>
+<body>
+    <main class="one">
+        <p>FIRST CHILD</p>
+    </main>
+    <span>ELEMENT SELECTOR EXAMPLE</span>
+    <div class="red">
+        CLASS SELECTOR EXAMPLE
+    </div>
+    <div id="green">
+        ID SELECTOR EXAMPLE
+        <p>CHILD SELECTOR EXAMPLE</p>
+        <article>
+            <p>DESCENDANT SELECTOR EXAMPLE</p>
+        </article>
+    </div>
+    <a href="https://www.youtube.com.pk/">PSUEDO SELECTOR EXAMPLE</a>
+    <a href="https://www.fb.com.pk/">PSUEDO SELECTOR EXAMPLE 2</a>
+</body>
+</html>
