@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MORE CSS SELECTORS</title>
+    <style>
+        /* .box:first-child{
+            background-color: red;
+        } */
+        .boxes * {
+            color: red;
+            border: 2px solid black;
+            margin: 2px;
+        }
+
+        /* .box::first-line{
+            color: violet;
+        } */
+        [data-color="primary"] {
+            border: 2px solid blue;
+        }
+
+        /* .box:nth-child(even){
+            color: aquamarine;
+        } */
+        /* .box:last-child(2) {
+            color: aquamarine;
+        } */
+         .boxes::before{
+            content: "FSD OTW";
+         }
+         .boxes::after{
+            content: "FSD OTW";
+         }
+         ::selection{
+            color: black;
+            background-color: white;
+         }
+    </style>
+</head>
+
+<body>
+    <div class="boxes">
+        <div class="box">Hey I am a box.</div>
+        <div class="box">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit ad error nam. Odit dolorem,
+            sint officiis reprehenderit harum doloremque illo quisquam incidunt perspiciatis dolor provident quo
+            molestiae unde perferendis blanditiis voluptates. Atque?</div>
+        <div class="box">Hey I am a box.</div>
+        <div data-color="primary" class="box">Hey I am a box.</div>
+    </div>
+
+</body>
+
+</html>
